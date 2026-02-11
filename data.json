@@ -1,0 +1,84 @@
+{
+    "certificates": [
+        {
+            "id": 1,
+            "title": "CS50P Introduction to Programming Using Python",
+            "issuer": "Harvard University",
+            "date": "Jun 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQG8D0JNVStT2g/profile-treasury-image-shrink_800_800/B4DZeXqwNLG8AY-/0/1750596257892?e=1771412400&v=beta&t=B6NuaffZ7u1lfXeP-SKTFn2yyt9fNgfEj7Vno3MOVkM"
+        },
+        {
+            "id": 2,
+            "title": "Getting Started with Deep Learning",
+            "issuer": "NVIDIA",
+            "date": "Sep 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQHS_VsADTNmGQ/profile-treasury-image-shrink_8192_8192/B4DZkRA5MxH0Ag-/0/1756927072073?e=1771412400&v=beta&t=DPaBJkmwz9tvSmotlGEgZJV56-lkAHH8aU1TMiiQnHI"
+        },
+        {
+            "id": 3,
+            "title": "Responsible Innovation and Trustworthy AI",
+            "issuer": "SAS",
+            "date": "Sep 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQFRqcYeoNuA-g/profile-treasury-image-shrink_1280_1280/B4DZlJ46CnGsAQ-/0/1757881279831?e=1771412400&v=beta&t=nLaleD4IEUrhl2X2hAm4SBpMgrXbYAGB-u3QFzTEQF0"
+        },
+        {
+            "id": 4,
+            "title": "Sprint x Microsoft Summer Camp - AI and ML",
+            "issuer": "Sprints & Microsoft",
+            "date": "Sep 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQH5aQ-hX4-9EQ/profile-treasury-image-shrink_800_800/B4DZlW3sbHH0AY-/0/1758099071863?e=1771412400&v=beta&t=66CBpIKLQv4qsrgaFPwgxqj7pjRimyc-rSKnzbvkCjg"
+        },
+        {
+            "id": 5,
+            "title": "IEEE Tech Verse Bootcamp in Machine Learning",
+            "issuer": "IEEE FCAI SB",
+            "date": "Sep 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQHq4vgVTcZOkw/profile-treasury-image-shrink_800_800/B4DZmcAQkwGQAY-/0/1759258948164?e=1771412400&v=beta&t=N6NqGhuhjk-jq7x6z9YoIPuvMUqMOdh7QH5vVzgH_ec"
+        },
+        {
+            "id": 6,
+            "title": "Python Programming Basics",
+            "issuer": "Mahara Tech - ITI",
+            "date": "Mar 2025",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQFOqwuXOcDCww/profile-treasury-image-shrink_800_800/B4DZxMW6nIH4AY-/0/1770807604288?e=1771416000&v=beta&t=47Uy6dvTdP4qlyUhodEwAd6wXwKUby9BJ3Q5lvgjeG8"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Node MOSS",
+            "summary": "A Node.js module for detecting plagiarism in academic work.",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQFIMj315Higfw/profile-treasury-image-shrink_8192_8192/B4DZwozS7KKkAg-/0/1770211063374?e=1771416000&v=beta&t=vWK0-HGQi409hz8ul6KOj5hFPpLoS2eStFh32JoCaZE",
+            "date": "Dec 2025",
+            "link": "https://www.npmjs.com/package/node-moss",
+            "github": "https://github.com/abdelhalimyasser/node-moss"
+        },
+        {
+            "id": 2,
+            "title": "UCI Heart Disease Prediction",
+            "summary": "A machine learning project to predict heart disease using the UCI dataset.",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQElLGMWPfGVKw/profile-treasury-image-shrink_1920_1920/B4DZxMXbt4JUAc-/0/1770807738266?e=1771416000&v=beta&t=m27kk8KYacUMczs5g2AzwPV_P8ekgJkECxy-L9u2aQ8",
+            "date": "Sep 2025",
+            "link": "https://heartdiseaseprojects.streamlit.app/",
+            "github": "https://github.com/abdelhalimyasser/Heart_Disease_Project"
+        },
+        {
+            "id": 3,
+            "title": "Java Bug Tracking System",
+            "summary": "A Java-based Desktop application for tracking and managing software bugs in development projects according to users roles.",
+            "image": "https://media.licdn.com/dms/image/v2/D4D2DAQGS6D1eI5ClDw/profile-treasury-image-shrink_800_800/B4DZtVKqncIAAY-/0/1766660419239?e=1771416000&v=beta&t=g6Lnuzrtbwc-ZGD_u2896DX8WHBFmlwA-Luh5-vCBDo",
+            "date": "Nov 2025",
+            "link": "",
+            "github": "https://github.com/abdelhalimyasser/JavaFX-Bug-Tracking-System"
+        },
+        {
+            "id": 4,
+            "title": "Social Media System Design",
+            "summary": "A system design project for a social media platform using modern web technologies.",
+            "image": "https://github.com/abdelhalimyasser/Social-Media-App-System-Design-and-Analysis/blob/main/Class%20Diagram/class%20diagram.png?raw=true",
+            "date": "Nov 2025",
+            "link": "https://abdelhalimyasser.github.io/Social-Media-App-System-Design-and-Analysis/",
+            "github": "https://github.com/abdelhalimyasser/Social-Media-App-System-Design-and-Analysis"
+        }
+    ]
+}
